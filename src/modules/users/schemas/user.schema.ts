@@ -24,7 +24,7 @@ export class User {
   address: string;
 
   @Prop()
-  createdAd: Date;
+  createdAt: Date;
 
   @Prop()
   updatedAt: Date;
